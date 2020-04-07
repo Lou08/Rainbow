@@ -27,6 +27,6 @@ Chat
 ### Client
 #### Routes
 
-| Path| Component|
+| Path| Component| Permissions| Behavior|
 | ----- | ---- |
-| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 | CONTENIDO COLUMNA 3 | CONTENIDO COLUMNA 4 |
